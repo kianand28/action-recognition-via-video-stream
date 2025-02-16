@@ -1,0 +1,13 @@
+tensorflow
+torch
+torchvision
+numpy
+matplotlib
+opencv-python
+scikit-learn
+pandas
+tqdm
+pylint
+fastapi 
+uvicorn 
+requests
